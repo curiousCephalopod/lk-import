@@ -1,0 +1,11 @@
+{
+    "name": "lk-import",
+    "title": "Legend Keeper JSON Import",
+    "description": "Imports LegendKeeper Wiki JSON output to Journal Entries.",
+    "author": "curiousCephalopod",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.5.0",
+    "scripts": [
+        "./scripts/import.js"
+    ]
+  }
