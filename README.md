@@ -1,5 +1,6 @@
 # lk-import
 Import LegendKeeper JSON into FoundryVTT
+Note: this module is a very hacked together attempt at achieving integration. It is likely many foundryvtt versions out of date at this point, and will probably never see another update. Feel free to use any portion of the code in you're own development.
 
 # Instructions:
 Export your LegendKeeper wiki in JSON format.  
